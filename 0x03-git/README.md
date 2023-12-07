@@ -1,0 +1,1 @@
+This is the frist directory for git in the zero alx project
